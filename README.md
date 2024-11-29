@@ -7,3 +7,6 @@ MIDI      4n35     ESP
 4 -------2    5----RXD---/\/\--- +3.3v
               4----GND
 ```
+
+This depends on:
+https://github.com/tttapa/Control-Surface.git
